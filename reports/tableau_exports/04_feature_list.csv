@@ -1,0 +1,11 @@
+feature
+loan_amnt
+term_months
+int_rate
+annual_inc_clean
+grade_B
+grade_C
+grade_D
+grade_E
+grade_F
+grade_G
