@@ -1,0 +1,4 @@
+loan_status,default_flag,count
+Fully Paid,0,1076751
+Charged Off,1,268559
+Default,1,40
