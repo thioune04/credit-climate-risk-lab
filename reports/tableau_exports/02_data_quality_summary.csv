@@ -1,0 +1,5 @@
+check,observation
+Missing values,Negligible on key columns
+Outliers in annual_inc,Extreme values detected (0 and very high values)
+Non-numeric term,Stored as text (e.g. '36 months')
+Interest rate format,Already numeric
