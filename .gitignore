@@ -5,3 +5,23 @@ data/raw/
 data/interim/
 data/processed/
 .env
+ # MacOS
+.DS_Store
+
+# Data
+data/
+notebooks/data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System / temp
+.Trash-0/
+*.Rhistory
+
+# Archives
+*.zip
+
+# Reference / misc
+docs/reference/
+
