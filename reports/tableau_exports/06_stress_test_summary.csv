@@ -1,0 +1,3 @@
+scenario,pd_mean
+baseline,0.19958106757771493
+stress_term_plus_12,0.19325991630787637
