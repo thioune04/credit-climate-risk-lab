@@ -1,0 +1,2 @@
+model,decision_threshold,business_objective,justification,expected_recall_default,expected_precision_default
+logistic_regression_l2,0.3,balance_risk_vs_business,Compromise between default recall and false positives,0.34,0.38
