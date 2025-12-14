@@ -25,3 +25,5 @@ notebooks/data/
 # Reference / misc
 docs/reference/
 
+notebooks/docker_check.ipynb
+
