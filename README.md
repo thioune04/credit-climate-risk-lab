@@ -8,8 +8,7 @@ Il couvre l’ensemble de la chaîne :
 - estimation du **risque de défaut (PD)**,
 - traduction en **impact financier (ECL)**,
 - intégration du **climat**,
-- **stress tests climatiques**,
-- restitution décisionnelle via **Tableau Public**.
+- **stress tests climatiques**.
 
 Le projet est conçu comme un **cas réel banque / assurance**, orienté **data, risk et décision**.
 
@@ -34,12 +33,6 @@ L’objectif n’est pas de reproduire un modèle réglementaire interne, mais d
 - Index d’exposition au **risque climatique physique**
 - Résultats de **stress tests climatiques**
 - Rapport de **qualité des données**
-
-### 🔹 Livrables décisionnels
-Dashboards **Tableau Public** :
-1. **Portfolio Overview** (KPI, segmentation du risque)
-2. **Climate Physical Exposure** (exposition géographique)
-3. **Climate Stress Tests** (baseline vs scénarios)
 
 ---
 
@@ -86,7 +79,6 @@ Dashboards **Tableau Public** :
 - **Docker** (reproductibilité)
 - **scikit-learn**
 - **pandas / numpy**
-- **Tableau Public** (restitution décisionnelle)
 - **Git / GitHub**
 
 
