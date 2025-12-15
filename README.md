@@ -89,35 +89,6 @@ Dashboards **Tableau Public** :
 - **Tableau Public** (restitution décisionnelle)
 - **Git / GitHub**
 
----
-
-## 📁 Organisation du projet
-
-├── notebooks/
-│ ├── 00_SETUP.ipynb
-│ ├── 01_DATA_LOADING.ipynb
-│ ├── 02_DATA_QUALITY.ipynb
-│ ├── 03_TARGET_DEFINITION.ipynb
-│ ├── 04_FEATURE_ENGINEERING.ipynb
-│ ├── 05_PD_MODEL.ipynb
-│ ├── 06_MODEL_CALIBRATION.ipynb
-│ ├── 07_CLIMATE_PHYSICAL_RISK.ipynb
-│ ├── 08_CLIMATE_IMPACT_ON_CREDIT_RISK.ipynb
-│ ├── 09_STRESS_TESTS.ipynb
-│
-├── reports/
-│ └── tableau_exports/
-│
-├── models/
-│
-├── docs/
-│ ├── roadmap.md
-│ ├── business_framing.md
-│
-├── docker/
-│
-└── README.md
----
 
 ## ⚠️ Hypothèses & limites
 - Données publiques utilisées comme **proxies**
@@ -133,6 +104,7 @@ Ce projet est conçu pour :
 - montrer l’intégration concrète du **risque climatique**
 - illustrer une capacité à **relier data → modèle → impact financier → décision**
 
+<img width="481" height="512" alt="Screenshot 2025-12-15 at 01 25 28" src="https://github.com/user-attachments/assets/0b85c972-d418-4cb8-a5ea-4391236bd6a2" />
 
 ---
 
