@@ -1,0 +1,2 @@
+total_loans,total_loan_amnt,total_ecl_adjusted,avg_pd,avg_lgd,avg_climate_risk
+250000,3601678975.0,565926754.896394,0.1996423549188822,0.6,"{'Very High': 0.479028, 'High': 0.221468, 'Medium': 0.181288, 'Low': 0.094932, 'Very Low': 0.023284}"
