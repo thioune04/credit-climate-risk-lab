@@ -1,7 +1,7 @@
 # Credit & Climate Risk Lab  
 **End-to-end Credit Risk Modeling with Climate Integration**
 
-## 🎯 Objectif du projet
+## 🎯 Objectif du projet 
 Ce projet démontre une **démarche complète et défendable** de pilotage du risque de crédit, enrichie par l’intégration du **risque climatique (physique et transition)**. 
 
 Il couvre l’ensemble de la chaîne :
