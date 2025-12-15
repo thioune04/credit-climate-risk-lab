@@ -1,0 +1,9 @@
+scenario,ECL_Total_MM_USD,PD_Mean,Delta_ECL_MM_USD
+baseline,467.18,0.1996,0.0
+orderly,470.77,0.201,3.6
+disorderly,479.26,0.2042,12.09
+hothouse,485.41,0.2066,18.24
+baseline,467.18,0.1996,0.0
+orderly,470.77,0.201,3.6
+disorderly,479.26,0.2042,12.09
+hothouse,485.41,0.2066,18.24
